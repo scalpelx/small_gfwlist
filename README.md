@@ -1,5 +1,5 @@
 
-![banner](https://github.com/scalpelx/sslist/blob/master/imgs/banner.png)
+![banner](https://github.com/scalpelx/small_gfwlist/blob/master/imgs/banner.png)
 
 
 看到当前最普遍使用的 `gfwlist` 体积有点大， 在访问网址的时候都要过一遍，肯定在速度和功耗上会有所影响，所以想自己写一个经常使用的 `list`
@@ -10,7 +10,7 @@
 ## 主文件地址
 
 ```bash
-https://github.com/scalpelx/sslist/raw/master/sslist-plain.txt
+https://github.com/scalpelx/small_gfwlist/raw/master/small_gfwlist.txt
 ```
 
 
@@ -19,7 +19,7 @@ https://github.com/scalpelx/sslist/raw/master/sslist-plain.txt
 ```bash
 ├── LICENSE                 # 许可证
 ├── README.md               # 说明文档
-└── sslist-plain.txt        # 规则主文件
+└── small_gfwlist.txt        # 规则主文件
 
 ```
 
@@ -31,12 +31,12 @@ https://github.com/scalpelx/sslist/raw/master/sslist-plain.txt
 
 **之前速度**
 
-![before](https://github.com/scalpelx/sslist/blob/master/imgs/before.png)
+![before](https://github.com/scalpelx/small_gfwlist/blob/master/imgs/before.png)
 
 
 **之后速度**
 
-![after](https://github.com/scalpelx/sslist/blob/master/imgs/after.png)
+![after](https://github.com/scalpelx/small_gfwlist/blob/master/imgs/after.png)
 
 
 ---
