@@ -90,7 +90,6 @@ https://github.com/scalpelx/sslist/raw/master/sslist-plain.txt
 
 #### Forums
 
-<a href="https://forums.macrumors.com/"><img width=15 src="https://cdn.macrumors.com/images-new/favicon.ico"> MacRumors</a> | 
 <a href="https://wordpress.com/"> Wordpress.com</a> | 
 <a href="https://wordpress.org/"> Wordpress.org</a> | 
 
@@ -102,32 +101,16 @@ https://github.com/scalpelx/sslist/raw/master/sslist-plain.txt
 <a href="https://www.skype.com/"><img width=15 src="https://secure.skypeassets.com/apollo/2.1.1087/images/icons/favicon.ico"> Skype</a> | 
 
 
-#### Design
-
-<a href="http://sketch.com"><img width=15 src="https://www.sketch.com/images/components/icons/favicon@2x.png"> Sketch</a> | 
-<a href="https://web.500px.com/"><img width=15 src="https://web.500px.com/favicon.ico"> 500px</a> | 
-
-
-#### Finance
-<a href="http://huobi.com"><img width=15 src="https://www.huobi.com/favicon.ico"> HuoBi</a> | 
-
-
 #### Software
 
-<a href="https://www.inpandora.com/"><img width=15 src="https://www.inpandora.com/wp-content/themes/pdr-pro/images/favicon.ico"> 潘多拉盒子</a> | 
 <a href="https://www.duetdisplay.com/"><img width=15 src="https://global-uploads.webflow.com/5d4db1235c898024a9c88df7/5d547f4dd9647b3646865167_favico.png"> Duet</a> | 
-<a href="https://rime.im/"><img width=15 src="https://rime.im/favicon.png"> Rime输入法</a> | 
-<a href="https://workona.com/"><img width=15 src="https://workona.com/assets/meta/favicon.ico"> Workona</a> | 
 <a href="https://www.termius.com/"><img width=15 src="https://uploads-ssl.webflow.com/5c7036349b5477bf13f828cf/5c7036349b547797daf829f8_termius-favicon.png"> Termius</a> | 
-<a href="https://mindnode.com/"><img width=15 src="https://mindnode.com/static/favicons/favicon-32x32.png"> MindNode</a> | 
 
 
 #### Utility
 
-<a href="https://www.ifixit.com/"><img width=15 src="https://d1ulmmr4d4i8j4.cloudfront.net/static/icons/ifixit/favicon-32x32.png"> iFixit</a> | 
-<a href="https://www.noisli.com/"><img width=15 src="https://www.noisli.com/assets/favicon.ico"> Noisli</a> | 
 <a href="https://www.v2ray.com/"><img width=15 src="https://www.v2ray.com/resources/favicon-152.png"> V2ray</a> | 
-<a href="https://justmysocks2.net/"><img width=15 src=""> JustMySocks</a> | 
+<a href="https://justmysocks.net/"><img width=15 src=""> JustMySocks</a> | 
 
 
 #### News

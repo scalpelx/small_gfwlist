@@ -32,15 +32,9 @@
 
 !!========== SOFT ==========
 ||duetdisplay.com
-||rime.im
 !/==Termius
 ||termius.com
-||webflow.com
 ||gitbook.com
-||firebaseio.com
-!/==MindNode
-||mindnode.com
-||analytics.ideasoncanvas.com
 
 !!========== APPLE ==========
 ||itunes.apple.com
@@ -50,55 +44,26 @@
 
 !!========== UTILITY ==========
 ||ifixit.com
-!/==Noisli
-||noisli.com
-||mxpnl.com
 ||v2ray.com
 ||justmysocks.net
 ||checkgfw.com
 
 !!========== HOSTSERVER ==========
 ||bandwagonhost.com
-||comodo.com
-||statuscake.com
 
 !!========== FORUMS ==========
-!/==MacRumors
-||macrumors.com
-||sharethrough.com
-||nsstatic.net
-||yumenetworks.com
-||mgr.consensu.org
-||scorecardresearch.com
-||amazon-adsystem.com
-||ytimg.com
-||switchadhub.com
 !/==WordPress
 ||wordpress.com
 ||wordpress.org
 ||pinimg.com
 
-!!========== FINANCE ==========
-||huobi.com
-||huobiasia.vip
-||woodpeckerlog.com
-||zopim.com
-||hbfile.net
-||zendesk.com
-
 !!========== DEVELOPER ==========
 ||ruanyifeng.*
-||xdebug.org
-||vuejs.org
 ||yapi.*
 ||regexr.com
-||i.stack
-||webpackjs
-||webpack.js
 ||gitter.im
 ||apachefriends.com
 ||gnu.org
-||fontawesome.com
 !/== GITHUB
 ||github.com
 ||githubassets.com
@@ -126,15 +91,9 @@
 ||codesandbox.io
 ||codefund.app
 ||stripe.com
-!/==Vue
-||vimeo.com
-!/===JSfiddle
-||fiddle.jshell.net
-||jsfiddle.net
-!/== SVG.js
-||cdn.rawgit.com
-||jsfiddle.net
+
 ||github.io
+
 !/== IDEA
 ||jetbrains.com
 !/== DISCORD
@@ -213,15 +172,6 @@
 !/==Whatsapp
 ||whatsapp.com
 
-!!========== DESIGN ==========
-||500px.com
-||unsplash.com
-||adobe.com
-||adobemobiledev.demdex.net
-||sketch.com
-||sketchapp.com
-||500px.org
-
 !!========== NEWS ==========
 ||npr.org
 !/== BBC
@@ -292,9 +242,7 @@
 
 !!========== OTHERS ==========
 ||inpandora.com
-||workona.com
 ||producthunt.com
-||workona.com.*
 ||amazon.com
 ||cloudfront.net
 !/== EBAY
