@@ -26,18 +26,6 @@ https://github.com/scalpelx/sslist/raw/master/sslist-plain.txt
 
 ```
 
-
-## 直用地址
-
-ShadowRocket 线上引用地址
-
-[https://github.com/scalpelx/sslist/raw/master/sslist-shadowrocket.txt](https://github.com/scalpelx/sslist/raw/master/sslist-shadowrocket.txt)
-
-V2ray 线上引用地址
-
-[https://github.com/scalpelx/sslist/raw/master/sslist-v2ray-pac.js](https://github.com/scalpelx/sslist/raw/master/sslist-v2ray-pac.js)
-
-
 ## 速度优化
 
 另外，有些网站需要可以在国内访问，但不如代理的速度快。也会加到这个列表中，如： `500px.com`, `github.com`
@@ -55,22 +43,6 @@ V2ray 线上引用地址
 
 
 ---
-
-# 使用
-
-### 在 SwitchyOmega插件中直接恢复
-
-> 默认本地的代理路径是： `127.0.0.1:1080`
-
-填入该路径，点恢复
-
-```
-https://github.com/scalpelx/sslist/raw/master/OmegaOptions.bak
-```
-
-![恢复插件配置](https://github.com/scalpelx/sslist/blob/master/imgs/restoreOption.png?raw=true)
-
-
 
 ## 已优化速度的网站
 
