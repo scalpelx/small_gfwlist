@@ -1,5 +1,5 @@
 
-![banner](https://github.com/KyleBing/sslist/blob/master/imgs/banner.png)
+![banner](https://github.com/scalpelx/sslist/blob/master/imgs/banner.png)
 
 
 看到当前最普遍使用的 `gfwlist` 体积有点大， 在访问网址的时候都要过一遍，肯定在速度和功耗上会有所影响，所以想自己写一个经常使用的 `list`
@@ -10,7 +10,7 @@
 ## 主文件地址
 
 ```bash
-https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
+https://github.com/scalpelx/sslist/raw/master/sslist-plain.txt
 ```
 
 
@@ -31,27 +31,27 @@ https://github.com/KyleBing/sslist/raw/master/sslist-plain.txt
 
 ShadowRocket 线上引用地址
 
-[https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt](https://github.com/KyleBing/sslist/raw/master/sslist-shadowrocket.txt)
+[https://github.com/scalpelx/sslist/raw/master/sslist-shadowrocket.txt](https://github.com/scalpelx/sslist/raw/master/sslist-shadowrocket.txt)
 
 V2ray 线上引用地址
 
-[https://github.com/KyleBing/sslist/raw/master/sslist-v2ray-pac.js](https://github.com/KyleBing/sslist/raw/master/sslist-v2ray-pac.js)
+[https://github.com/scalpelx/sslist/raw/master/sslist-v2ray-pac.js](https://github.com/scalpelx/sslist/raw/master/sslist-v2ray-pac.js)
 
 
 ## 速度优化
 
 另外，有些网站需要可以在国内访问，但不如代理的速度快。也会加到这个列表中，如： `500px.com`, `github.com`
-如果你在使用该 `list` 的时候出现页面加载超过 `5s` 的情况，欢迎 <a href="mailto:kylebing@163.com"> Email 我 </a>
+如果你在使用该 `list` 的时候出现页面加载超过 `5s` 的情况，欢迎 <a href="mailto:scalpelx@outlook.com"> Email 我 </a>
 
 
 **之前速度**
 
-![before](https://github.com/KyleBing/sslist/blob/master/imgs/before.png)
+![before](https://github.com/scalpelx/sslist/blob/master/imgs/before.png)
 
 
 **之后速度**
 
-![after](https://github.com/KyleBing/sslist/blob/master/imgs/after.png)
+![after](https://github.com/scalpelx/sslist/blob/master/imgs/after.png)
 
 
 ---
@@ -65,10 +65,10 @@ V2ray 线上引用地址
 填入该路径，点恢复
 
 ```
-https://github.com/KyleBing/sslist/raw/master/OmegaOptions.bak
+https://github.com/scalpelx/sslist/raw/master/OmegaOptions.bak
 ```
 
-![恢复插件配置](https://github.com/KyleBing/sslist/blob/master/imgs/restoreOption.png?raw=true)
+![恢复插件配置](https://github.com/scalpelx/sslist/blob/master/imgs/restoreOption.png?raw=true)
 
 
 

@@ -27,6 +27,8 @@
 !/==Calendar
 ||calendar.com
 ||static.zdassets.com
+!/== ANDROID
+||android.com
 
 !!========== SOFT ==========
 ||duetdisplay.com
@@ -52,7 +54,8 @@
 ||noisli.com
 ||mxpnl.com
 ||v2ray.com
-||justmysocks2.net
+||justmysocks.net
+||checkgfw.com
 
 !!========== HOSTSERVER ==========
 ||bandwagonhost.com
@@ -270,6 +273,11 @@
 ||tbs.com
 ||squarespace.com
 ||typekit.net
+!/== FRI
+||rfi.fr
+!/== REUTERS
+||reuters.com
+||reutersmedia.net
 
 !/== TEAM COCO
 ||teamcoco.com
@@ -298,3 +306,6 @@
 ||ea.com
 ||soundcloud.com
 ||typekit.net
+
+!!========== NOVEL ==========
+||ptwxz.com
