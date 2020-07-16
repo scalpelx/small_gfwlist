@@ -18,11 +18,8 @@ https://github.com/scalpelx/sslist/raw/master/sslist-plain.txt
 
 ```bash
 ├── LICENSE                 # 许可证
-├── OmegaOptions.bak        # SwitchyOmega插件 恢复备份文档
 ├── README.md               # 说明文档
-├── sslist-plain.txt        # 规则主文件
-├── sslist-shadowrocket.txt # 用于 iOS 端的 shadowrocket 的配置文件
-└── sslist-v2ray-pac.js     # 适用于 v2ray 电脑客户端的配置文件
+└── sslist-plain.txt        # 规则主文件
 
 ```
 
