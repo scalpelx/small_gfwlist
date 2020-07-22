@@ -47,6 +47,7 @@
 ||v2ray.com
 ||justmysocks.net
 ||checkgfw.com
+||apkpure.com
 
 !!========== HOSTSERVER ==========
 ||bandwagonhost.com
