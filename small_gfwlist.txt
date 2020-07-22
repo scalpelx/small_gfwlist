@@ -255,6 +255,8 @@
 ||ea.com
 ||soundcloud.com
 ||typekit.net
+！/==STEAM
+||steamcommunity.com
 
 !!========== NOVEL ==========
 ||ptwxz.com
