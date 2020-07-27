@@ -262,3 +262,6 @@
 
 !!========== NOVEL ==========
 ||ptwxz.com
+
+!!========== SLOW ==========
+||fontawesome.com
