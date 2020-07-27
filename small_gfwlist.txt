@@ -69,7 +69,7 @@
 ||github.com
 ||githubassets.com
 ||githubusercontent.com
-!/== STACKFLOW
+!/== STACKOVERFLOW
 ||stackoverflow.com
 ||stack.imgur.com
 ||cdn.sstatic.net
@@ -183,7 +183,7 @@
 ||bbci.co.uk
 ||crwdcntrl.net
 ||skimresources.com
-!/== Yahho
+!/== Yahoo
 ||yahoo.com
 ||mathtag.com
 ||adtechus.com
