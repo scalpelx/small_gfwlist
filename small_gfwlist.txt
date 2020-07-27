@@ -167,6 +167,7 @@
 !/== TELEGRAM
 ||telegram.org
 ||telegram.me
+||t.me
 !/== Skype
 ||skype.com
 ||browser.pipe.aria.microsoft.com
