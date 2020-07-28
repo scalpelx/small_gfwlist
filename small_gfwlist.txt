@@ -114,6 +114,14 @@
 !!========== POPULAR ==========
 !/== WIKI
 ||wikipedia.org
+||wikinews.org
+||wikibooks.org
+||wikidata.org
+||wikiversity.org
+||wikiquote.org
+||wikivoyage.org
+||wiktionary.org
+||wikisource.org
 !/== FACEBOOK
 ||facebook.net
 ||facebook.com
