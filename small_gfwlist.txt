@@ -136,7 +136,6 @@
 ||doubleclick.net
 !/== SPOTIFY
 ||spotify.com
-||t.co
 ||snapchat.com
 ||adsrvr.org
 ||semasio.ne
@@ -147,21 +146,20 @@
 ||fastly-insights.com
 !/==Grammly
 ||grammarly.com
-||reddit.com
-||redditstatic.com
 ||grammarly.io
 ||quora.com
 !/== Netflix
 ||netflix.com
 ||nflxext.com
 !/==REDDIT
+||reddit.com
 ||redd.it
 ||redditmedia.com
 ||redditstatic.com
 
 
 !!========== IM ==========
-!/== What's app
+!/==Whatsapp
 ||whatsapp.com
 ||whatsapp.net
 !/== TELEGRAM
@@ -171,8 +169,6 @@
 !/== Skype
 ||skype.com
 ||browser.pipe.aria.microsoft.com
-!/==Whatsapp
-||whatsapp.com
 
 !!========== NEWS ==========
 ||npr.org
@@ -212,7 +208,6 @@
 ||turn.com
 ||casalemedia.com
 ||amgdgt.com
-||cloudfront.net
 ||sharethis.com
 !/== ABC NEWS
 ||abcnews.go.com
@@ -256,7 +251,6 @@
 !/== EA
 ||ea.com
 ||soundcloud.com
-||typekit.net
 ！/==STEAM
 ||steamcommunity.com
 
