@@ -25,16 +25,9 @@
 !/== AD
 ||googleadservices.com
 !/==Calendar
-||calendar.com
 ||static.zdassets.com
 !/== ANDROID
 ||android.com
-
-!!========== SOFT ==========
-||duetdisplay.com
-!/==Termius
-||termius.com
-||gitbook.com
 
 !!========== APPLE ==========
 ||itunes.apple.com
@@ -43,28 +36,22 @@
 ||discussions.apple.com
 
 !!========== UTILITY ==========
-||ifixit.com
 ||v2ray.com
 ||justmysocks.net
 ||checkgfw.com
 ||apkpure.com
+||gitbook.com
 
 !!========== HOSTSERVER ==========
 ||bandwagonhost.com
 
 !!========== FORUMS ==========
-!/==WordPress
-||wordpress.com
-||wordpress.org
 ||pinimg.com
 
 !!========== DEVELOPER ==========
-||ruanyifeng.*
 ||yapi.*
-||regexr.com
-||gitter.im
 ||apachefriends.com
-||gnu.org
+
 !/== GITHUB
 ||github.com
 ||githubassets.com
@@ -89,14 +76,10 @@
 ||developer.mozilla.org
 ||secure.gravatar.com
 !/==CodeSandbox
-||codesandbox.io
 ||codefund.app
-||stripe.com
 
 ||github.io
 
-!/== IDEA
-||jetbrains.com
 !/== DISCORD
 ||discordapp.com
 ||discordapp.net
@@ -152,9 +135,7 @@
 ||hotjar.com
 ||myvisualiq.net
 ||fastly-insights.com
-!/==Grammly
-||grammarly.com
-||grammarly.io
+
 ||quora.com
 !/== Netflix
 ||netflix.com
@@ -241,13 +222,10 @@
 ||trustarc.com
 ||art19.com
 ||amazonaws.com
-||ywxi.net
 ||azureedge.net
-||shopify.com
 
 !!========== OTHERS ==========
 ||inpandora.com
-||producthunt.com
 ||amazon.com
 ||cloudfront.net
 !/== EBAY
