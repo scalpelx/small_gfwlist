@@ -45,12 +45,8 @@
 !!========== HOSTSERVER ==========
 ||bandwagonhost.com
 
-!!========== FORUMS ==========
-||pinimg.com
-
 !!========== DEVELOPER ==========
 ||yapi.*
-||apachefriends.com
 
 !/== GITHUB
 ||github.com
@@ -75,15 +71,8 @@
 !/== Mozilla.org
 ||developer.mozilla.org
 ||secure.gravatar.com
-!/==CodeSandbox
-||codefund.app
 
 ||github.io
-
-!/== DISCORD
-||discordapp.com
-||discordapp.net
-
 
 !!========== XXOO ==========
 ||xvideos.com
@@ -186,7 +175,6 @@
 ||s-nbcnews.com
 ||parsely.com
 ||perfectmarket.com
-||quantserve.com
 !/== WASHINGDON POST
 ||washingtonpost.com
 ||krxd.net
