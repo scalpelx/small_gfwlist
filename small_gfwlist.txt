@@ -219,8 +219,7 @@
 !/== TEAM COCO
 ||teamcoco.com
 ||teamcococdn.com
-||trustarc.com
-||art19.com
+
 ||amazonaws.com
 ||azureedge.net
 
