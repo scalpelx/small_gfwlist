@@ -203,6 +203,8 @@
 !/== REUTERS
 ||reuters.com
 ||reutersmedia.net
+!/==VOA
+||voachinese.com
 
 !/== TEAM COCO
 ||teamcoco.com
