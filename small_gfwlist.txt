@@ -206,6 +206,8 @@
 !/==VOA
 ||voachinese.com
 
+||kknews.cc
+
 !/== TEAM COCO
 ||teamcoco.com
 ||teamcococdn.com
