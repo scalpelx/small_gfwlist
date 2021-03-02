@@ -94,6 +94,7 @@
 ||wikivoyage.org
 ||wiktionary.org
 ||wikisource.org
+||wikimedia.org
 !/== FACEBOOK
 ||facebook.net
 ||facebook.com
