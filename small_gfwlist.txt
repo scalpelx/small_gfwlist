@@ -207,6 +207,8 @@
 !/==VOA
 ||voachinese.com
 
+||dw.com
+||ftchinese.com
 ||kknews.cc
 
 !/== TEAM COCO
