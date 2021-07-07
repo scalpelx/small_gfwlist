@@ -237,3 +237,8 @@
 
 !!========== SLOW ==========
 ||fontawesome.com
+
+||tensorflow.org
+||v2ex.com
+||huobi.com
+||v2fly.org
